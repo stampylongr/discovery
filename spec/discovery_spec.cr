@@ -5,7 +5,7 @@ describe Discovery do
 
   describe "#travis" do
     it "has basic stuff telling travis to shut up" do
-      travis = Discovery.new
+      travis = Discovery.travis
       travis.should eq("work travis")
     end
   end
