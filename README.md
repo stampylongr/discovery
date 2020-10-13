@@ -1,12 +1,10 @@
-<center>
+<p align="center">
   <a href="https://github.com/mint-lgbt/discovery"><img alt="Discovery" src="https://github.com/mint-lgbt/discovery/raw/main/assets/logo.svg" /></a>
-</center>
+</p>
 
-<br />
-
-<center>
+<p align="center">
   <a href="https://travis-ci.com/mint-lgbt/discovery"><img alt="Build Status" src="https://travis-ci.com/mint-lgbt/discovery.svg?branch=main" /></a>
-</center>
+</p>
 
 ## About Discovery
 
