@@ -29,7 +29,5 @@ SOFTWARE = {
 }
 
 class Discovery
-  def travis
-    puts "work travis"
-  end
+  # TODO: Actually write code
 end
