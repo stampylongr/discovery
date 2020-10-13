@@ -27,3 +27,9 @@ SOFTWARE = {
   "version" => "#{CURRENT_VERSION}-#{CURRENT_COMMIT}",
   "branch"  => "#{CURRENT_BRANCH}",
 }
+
+class Discovery
+  def travis
+    puts "work travis"
+  end
+end
