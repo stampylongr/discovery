@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://travis-ci.com/mint-lgbt/discovery"><img alt="Build Status" src="https://travis-ci.com/mint-lgbt/discovery.svg?branch=main" /></a>
+  <a href="https://github.com/mint-lgbt/discovery/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/mint-lgbt/discovery" /></a>
+  <a href="https://github.com/mint-lgbt/discovery/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/mint-lgbt/discovery" /></a>
 </p>
 
 ## About Discovery
