@@ -4,6 +4,7 @@ language: crystal
 # script:
 #   - crystal spec
 #   - crystal tool format --check
+
 addons:
   apt:
     packages:
@@ -17,3 +18,6 @@ addons:
       - libgmp-dev
       - libssl-dev
       - libxml2-dev
+
+after_script:
+  - bash <(curl -s https://codecov.io/bash)
