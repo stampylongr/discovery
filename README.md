@@ -1,11 +1,11 @@
 <center>
-  [![Discovery](https://github.com/mint-lgbt/discovery/raw/main/assets/logo.svg)](https://github.com/mint-lgbt/discovery)
+  <a href="https://github.com/mint-lgbt/discovery"><img alt="Discovery" src="https://github.com/mint-lgbt/discovery/raw/main/assets/logo.svg" /></a>
 </center>
 
 <br />
 
 <center>
-  [![Build Status](https://travis-ci.com/mint-lgbt/discovery.svg?branch=main)](https://travis-ci.com/mint-lgbt/discovery)
+  <a href="https://travis-ci.com/mint-lgbt/discovery"><img alt="Build Status" src="https://travis-ci.com/mint-lgbt/discovery.svg?branch=main" /></a>
 </center>
 
 ## About Discovery
@@ -35,4 +35,5 @@ TODO: Write development instructions here
 ## Contributors
 
 - [LunaIsNotABoy](https://github.com/lunaisnotaboy) - creator and maintainer
+
 
