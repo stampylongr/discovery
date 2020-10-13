@@ -2,12 +2,18 @@ name: discovery
 version: 0.1.0
 
 authors:
-  - your-name-here <your-email-here>
+  - Luna <her@mint.lgbt>
 
 targets:
   discovery:
     main: src/discovery.cr
 
 crystal: 0.35.1
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+  pg:
+    github: will/crystal-pg
 
 license: MIT

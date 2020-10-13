@@ -4,3 +4,16 @@ language: crystal
 # script:
 #   - crystal spec
 #   - crystal tool format --check
+addons:
+  apt:
+    packages:
+      - gcc
+      - pkg-config
+      - git
+      - tzdata
+      - libpcre3-dev
+      - libevent-dev
+      - libyaml-dev
+      - libgmp-dev
+      - libssl-dev
+      - libxml2-dev
