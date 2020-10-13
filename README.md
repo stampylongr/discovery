@@ -10,7 +10,7 @@
 
 ## About Discovery
 
-An open-source music streaming application.
+An open-source music streaming application written in Crystal.
 
 ## Installation
 
