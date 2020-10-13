@@ -1,4 +1,14 @@
-# Discovery
+<center>
+  [![Discovery](https://github.com/mint-lgbt/discovery/raw/main/assets/logo.svg)](https://github.com/mint-lgbt/discovery)
+</center>
+
+<br />
+
+<center>
+  [![Build Status](https://travis-ci.com/mint-lgbt/discovery.svg?branch=main)](https://travis-ci.com/mint-lgbt/discovery)
+</center>
+
+## About Discovery
 
 An open-source music streaming application.
 
@@ -25,3 +35,4 @@ TODO: Write development instructions here
 ## Contributors
 
 - [LunaIsNotABoy](https://github.com/lunaisnotaboy) - creator and maintainer
+
