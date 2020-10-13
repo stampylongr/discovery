@@ -6,7 +6,7 @@ describe Discovery do
   describe "#travis" do
     it "has basic stuff telling travis to shut up" do
       travis = Discovery.new
-      travis.should be("work travis")
+      travis.should contain("work travis")
     end
   end
 end
