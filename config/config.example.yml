@@ -5,4 +5,11 @@ db:
   port: 5432
   dbname: discovery
 auth0:
-  url: insert.url.here
+  # no trailing slash
+  domain: ""
+  # called "client id" in dashboard
+  pubkey: ""
+  # keep private!!!
+  privkey: ""
+hostname: ""
+secret: ""

@@ -15,5 +15,9 @@ dependencies:
     github: kemalcr/kemal
   pg:
     github: will/crystal-pg
+  kemal-session:
+    github: kemalcr/kemal-session
+  jwt:
+    github: crystal-community/jwt
 
 license: MIT
