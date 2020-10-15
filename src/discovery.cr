@@ -28,6 +28,10 @@ SOFTWARE = {
   "branch"  => "#{CURRENT_BRANCH}",
 }
 
-class Discovery
-  # TODO: Actually write code
+config = CONFIG
+
+Discovery::Routing.get "/", Discovery::Routes::Home
+
+get "/login" do |env|
+  env.redirect CONFIG.auth0.url
 end
